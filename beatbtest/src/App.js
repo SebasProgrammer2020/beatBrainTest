@@ -1,12 +1,11 @@
 import React from "react";
-import Selector from "./components/Selector/index";
-// import './App.css';
+import PrincipalForm from "./components/PrincipalForm/index";
 const App = () => {
   return (
     <>
       <div className="container">
         <div>
-          <Selector />
+          <PrincipalForm />
         </div>
       </div>
     </>
